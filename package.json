@@ -1,0 +1,13 @@
+{
+  "name": "@sgbp/palette-generator",
+  "version": "1.0.0",
+  "description": "Generate a matching palette of tints and shades from one base colour. Zero-dependency Web Component.",
+  "type": "module",
+  "main": "palette-generator.js",
+  "unpkg": "palette-generator.js",
+  "files": ["palette-generator.js", "README.md"],
+  "keywords": ["web-component", "custom-element", "color scheme generator", "color shades generator", "color combination generator"],
+  "homepage": "https://sgbp.tech/tools/color-palette-generator",
+  "author": "SGBP — Singapore Build Partners (https://sgbp.tech)",
+  "license": "MIT"
+}
