@@ -1,0 +1,8 @@
+site_name: Color Palette Generator
+site_description: Generate a matching palette of tints and shades from one base colour.
+theme:
+  name: readthedocs
+nav:
+  - Overview: index.md
+  - Usage & API: usage.md
+  - Guide: guide.md
